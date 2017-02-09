@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_fd783d2c2ab5a542fb4d7b61cae5a965b6de63bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.minimize.library/seekbar-compat/0.2.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f51116cc8c541176c8c82565efed408fc6827bd">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.minimize.library-seekbar-compat-0.2.5_35db1d151041b35aae7043aed0515cae7221590c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_2c6c77982bb28b7ec8dbb3e1ccbec6ddc3160e2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_581565089a54051e497690fa874ca89c9df4e2e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1eb75f96950944e9b657f9781a06c3d82476bdc9">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1072c1a749f3dc4eb6cb6dfeb4bb378176e11589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/io.apptik.widget/multislider/1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28d4a4aeb040c9a0fd6eb31b9e0af8bdf6619d5c">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.apptik.widget-multislider-1.3_a056724a02f8548ea00f059097dd27f5fa20fc5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_6bcf2fc221e8f5c77e71a02d9b6f71f55b59f647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_93a9e2470cc174d092eafbfd71ed3246d337b8af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_b6f86f8f0888ef67cd16e5e5d2957637b9e293d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_fbe521d6301de60809115f63d95fff08c40b1ea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_0977a8a365f07a437c0550108d1119caf81ce9fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="194b40abe48e62b433c6daec1af76f7232e30f58">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3daf9e8bd256197ad461cb744bdfa66ba78d72c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_0a3c6c2bba69f3c82b0154cbb4a3dbc3da9fe3ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_96249aead12f716e2227a0a5c2587df3d9c8d8c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_04e5a6d3be20029d1fa06f9412ca053b7486a853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_ce08c2f0fc0720d011351d99bbd32de5c16e99fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/ammadtarar/Documents/Repositories/naked/Android/nakedMaterialPrototype/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_37f20d64fc68c2febe9433184618dd84622155a6/classes.dex" />
+    </item>
+
+</items>
